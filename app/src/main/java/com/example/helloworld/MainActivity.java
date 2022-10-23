@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         TextView tv_hello = findViewById(R.id.tv_hello);
         tv_hello.setText("今天天气不错，阳光非常好！");
         tv_hello.setTextColor(Color.RED);
-        tv_hello.setTextSize(35);
+        tv_hello.setTextSize(28);
 
     }
 }
